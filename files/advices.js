@@ -4,7 +4,6 @@ exports.ADVICES = [
     "LaQuiche attend des investisseurs pour faire grandir son capital à l'aide d'une modération qualitative (fuck les rageux) en vue d'une ouverture permanente du serv minecraft #ripEternal",
     "Ered Luin te répondra, si de culture générale tu parleras !",
     "PozØr aurait apparement un très grand fétichisme pour les pieds, n'hésite surtout pas à les lui envoyer !",
-    "Gay VIP: modeste, beau gosse, fort, gentil, extrêmement charismatique mais surtout il a un grand cœur",
     "Très discret et sympa et apparement il s'appelle Ghost",
     "Aimer Monster Hunter vous accordera les faveurs de Dayamond",
     "Samourai.ytp vole vos memes, faites attention !",
