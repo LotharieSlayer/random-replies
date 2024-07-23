@@ -190,6 +190,9 @@ exports.MEMES = [
     {"command":"cyberpunk", "message": "https://cdn.discordapp.com/attachments/852615768322605127/857762521641779200/F11YHCEh59PS1a31.mp4"},
     
     //PUB
-    {"command":"e", "message": "En manque de memes ? <:fmTwitter:797545601356922882>\nPasse un bon moment sur nos timeline Twitter !\n:arrow_right: <https://twitter.com/francememes_> (le super chien)\n:arrow_right: <https://twitter.com/lotharie_slayer> (Lotharie)\n:arrow_right: <https://twitter.com/pozor_ow> (PozØr)\n:arrow_right: <https://twitter.com/terizible> (Tériz)"},
+    {"command":"e", "message": "En manque de memes ? <:fmTwitter:797545601356922882>\nPasse un bon moment sur nos timeline Twitter !\n:arrow_right: <https://twitter.com/francememes_> (le super chien)\n:arrow_right: <https://twitter.com/lotharie_slayer> (Lotharie)\n:arrow_right: <https://twitter.com/pozor_ow> (PozØr)\n:arrow_right: <https://twitter.com/terizible> (Tériz)\n:arrow_right: <https://twitter.com/MaelysNath> (MaelysNath)"},
     {"command":"f", "message": "**Frustré de ne pas avoir tous les salons ?** <:fmPatreon:798721612379193344>\nMoi je suis sur que tu peux mettre 1€ par mois pour nous soutenir !\n:arrow_right: <https://bit.ly/patreonFM>"},
+    {"command":"u", "message": ":information_source: Si vous constatez un mauvais comportement ou un contenu inapproprié, signalez-le à la modération avec la commande `/report`."
+    {"command":"a", "message": ":information_source: Vous n'arrivez pas à poster des mèmes ? Faites-vous vérifier en suivant les instructions: https://discord.com/channels/724408079550251080/790570512228941904/1113556167499710635\n Ou abonnez-vous pour une vérification instantanée et obtenir des fonctionnalités exclusives."
+    {"command":"y", "message": ":information_source: Saviez-vous que vous pouvez suivre un membre et ses publications avec la commande `/follow` ?"
 ]
