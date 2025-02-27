@@ -205,7 +205,7 @@ exports.MEMES = [
     //PUB
     {"command":"e", "message": "En manque de memes ? \nPasse un bon moment sur nos timeline Bluesky et Twitter !\n:arrow_right: <https://twitter.com/francememes_> (Twitter) \n:arrow_right: <https://bsky.app/profile/francememes.com> (Bluesky) \n:arrow_right: <https://bsky.app/profile/lotharie.net> (Lotharie)\n:arrow_right: <https://twitter.com/pozor_ow> (PozØr)\n:arrow_right: <https://twitter.com/terizible> (Terry)\n:arrow_right: <https://bsky.app/profile/maelysnath.fr> (Maëlys)"},
     {"command":"f", "message": "**Frustré de ne pas avoir tous les salons ?** <:fmPatreon:798721612379193344>\nMoi je suis sur que tu peux mettre 1€ par mois pour nous soutenir !\n:arrow_right: <https://bit.ly/patreonFM>"},
-    {"command":"u", "message": ":information_source: Si vous constatez un mauvais comportement ou un contenu inapproprié, signalez-le à la modération avec la commande `/report`."
+    {"command":"u", "message": ":information_source: Si vous constatez un mauvais comportement ou un contenu inapproprié, signalez-le à la modération avec la commande `/report`."},
     {"command":"a", "message": ":information_source: Vous n'arrivez pas à poster des memes ? Faites-vous vérifier en suivant les instructions: https://discord.com/channels/724408079550251080/790570512228941904/1113556167499710635\n Ou [abonnez-vous](https://bit.ly/patreonFM) pour une vérification instantanée et obtenir des fonctionnalités exclusives!"},
-    {"command":"y", "message": ":information_source: Saviez-vous que vous pouvez suivre un membre et ses publications avec la commande `/follow` ?"
+    {"command":"y", "message": ":information_source: Saviez-vous que vous pouvez suivre un membre et ses publications avec la commande `/follow` ?"},
 ]
