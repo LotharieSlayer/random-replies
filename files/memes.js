@@ -139,10 +139,10 @@ exports.MEMES = [
     {"command":"où", "message": "Où ? bah on sait pas.	<https://www.youtube.com/watch?v=pxp9oDRqEFg>"},
     {"command":"fume", "message": "Arretez de fumer.	<https://www.youtube.com/watch?v=cBeyWAauDqY>"},
     //24/06/2021
-    {"command":"quoi", "message": "feur"},
+    {"command":"quoi", "message": "https://tenor.com/view/theobabac-feur-meme-theobabac-feur-gif-11339780952727019434"}, //GIF Teobabac - feur
     {"command":"pays", "message": "UN PAYS ???    <https://www.youtube.com/watch?v=5pOFKmk7ytU>"},
-    {"command":"hitler", "message": "<@&724416277296185364> OU SONT LES <@&724416277296185364> ???"},
     {"command":"lotha", "message": "Ah <@310430388336197632>, on parle de toi apparement !"},
+    {"command":"star", "message": " <@196097770044653568> ! ils parlent de ta série préférée !"},
     {"command":"horny", "message": "https://tenor.com/view/horny-jail-bonk-dog-hit-head-stop-being-horny-gif-17298755"},
     {"command":"weeb", "message": "https://cdn.discordapp.com/attachments/724430143950553139/757934057844637767/MV_weeb_de_merde.mp4"},
     {"command":"florent pagny", "message": "https://cdn.discordapp.com/attachments/724408590462484500/857586040646139924/191083462_4601255983222467_3333551849372434646_n.jpg"},
@@ -188,8 +188,24 @@ exports.MEMES = [
     {"command":"bite", "message": "https://cdn.discordapp.com/attachments/852615768322605127/857762240673087509/Cest_ce_qui_fait_bander_ma_grosse_bite-CVg-dCbFMvU.mp4"},
     {"command":"chien", "message": "https://cdn.discordapp.com/attachments/852615768322605127/857762421984067626/chien_pet.mp4"},
     {"command":"cyberpunk", "message": "https://cdn.discordapp.com/attachments/852615768322605127/857762521641779200/F11YHCEh59PS1a31.mp4"},
+    //03/12/2024
+    {"command":"triste", "message": "https://tenor.com/view/tu-es-triste-arrete-arrête-theobabac-meme-gif-17903530762936652047"},
+    {"command":"pavé", "message": "POV: https://tenor.com/view/fire-writing-gif-9977520401928425114"}, 
+    {"command":"ton langage", "message": "https://tenor.com/view/discord-speech-bubble-gif-25628816"}, 
+    {"command":"citron", "message": "https://tenor.com/view/speech-bubble-bubble-speech-speech-bubble-gif-6972435963265379503"},
+    {"command":"cute", "message": "https://tenor.com/view/shikimori-speech-bubble-gif-25952656"},
+    {"command":"douche", "message": "https://tenor.com/view/smelly-gif-8910926518937547745"},
+    {"command":"skibidi", "message": "https://www.youtube.com/watch?v=ApyveBff6iQ&list=LL&index=68"},
+    {"command":"alcool", "message": "https://cdn.discordapp.com/attachments/1312465047280156772/1313313298623762514/alcool_-_.mp4"},
+    {"command":"chocolat", "message": "As-tu déjà essayé(e) le Fishe au Chocolat ? https://cdn.discordapp.com/attachments/1312465047280156772/1313314113438482474/Le_Fishe_au_chocolat.mp4"},
+    {"command":"je sais pas", "message": "moi non plus. https://tenor.com/view/shrugs-hekapoo-svtfoe-star-vs-the-forces-of-evil-idk-gif-17477021"},
+
+  
     
     //PUB
-    {"command":"e", "message": "En manque de memes ? <:fmTwitter:797545601356922882>\nPasse un bon moment sur nos timeline Twitter !\n:arrow_right: <https://twitter.com/francememes_> (le super chien)\n:arrow_right: <https://twitter.com/lotharie_slayer> (Lotharie)\n:arrow_right: <https://twitter.com/pozor_ow> (PozØr)\n:arrow_right: <https://twitter.com/terizible> (Tériz)"},
+    {"command":"e", "message": "En manque de memes ? \nPasse un bon moment sur nos timeline Bluesky et Twitter !\n:arrow_right: <https://twitter.com/francememes_> (Twitter) \n:arrow_right: <https://bsky.app/profile/francememes.bsky.social> (Bluesky) \n:arrow_right: <https://bsky.app/profile/lotharie.net> (Lotharie)\n:arrow_right: <https://twitter.com/pozor_ow> (PozØr)\n:arrow_right: <https://twitter.com/terizible> (Terry)\n:arrow_right: <https://bsky.app/profile/maelysnath.fr> (Maëlys)"},
     {"command":"f", "message": "**Frustré de ne pas avoir tous les salons ?** <:fmPatreon:798721612379193344>\nMoi je suis sur que tu peux mettre 1€ par mois pour nous soutenir !\n:arrow_right: <https://bit.ly/patreonFM>"},
+    {"command":"u", "message": ":information_source: Si vous constatez un mauvais comportement ou un contenu inapproprié, signalez-le à la modération avec la commande `/report`."
+    {"command":"a", "message": ":information_source: Vous n'arrivez pas à poster des memes ? Faites-vous vérifier en suivant les instructions: https://discord.com/channels/724408079550251080/790570512228941904/1113556167499710635\n Ou [abonnez-vous](https://bit.ly/patreonFM) pour une vérification instantanée et obtenir des fonctionnalités exclusives!"
+    {"command":"y", "message": ":information_source: Saviez-vous que vous pouvez suivre un membre et ses publications avec la commande `/follow` ?"
 ]
