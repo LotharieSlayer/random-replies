@@ -6,6 +6,7 @@
  */
 
 const { SlashCommandBuilder } = require("@discordjs/builders");
+const { MessageFlags } = require("discord.js");
 const { advices } = require("../utils/enmapUtils");
 
 /* ----------------------------------------------- */
@@ -26,7 +27,7 @@ const slashCommand = new SlashCommandBuilder()
  */
 async function execute(interaction) {
     const advice = await advices.randomKey();
-    await interaction.reply({content: advice, ephemeral: true})
+    await interaction.reply({content: advice, flags: MessageFlags.Ephemeral})
 }
 
 /* ----------------------------------------------- */

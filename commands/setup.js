@@ -1,3 +1,4 @@
+const { MessageFlags } = require("discord.js");
 const { setupMemes } = require("../utils/enmapUtils");
 
 async function addSetupCommand(slashCommand) {
@@ -24,13 +25,13 @@ async function execute(interaction) {
                 setupMemes.set(interaction.channel.id, interaction.guild.id);
                 await interaction.reply({
                     content: `Channel <#${interaction.channel.id}> ajouté à la liste des channels memes !`,
-                    ephemeral: true,
+                    flags: MessageFlags.Ephemeral,
                 });
             } else {
                 setupMemes.delete(interaction.channel.id);
                 await interaction.reply({
                     content: `Channel <#${interaction.channel.id}> supprimé de la liste des channels memes !`,
-                    ephemeral: true,
+                    flags: MessageFlags.Ephemeral,
                 });
             }
             break;
